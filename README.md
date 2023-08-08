@@ -1,6 +1,6 @@
-# Essembra: Hyper-Speed Assembly, Human-Like Comprehension
+# Essembra
 
-Greetings and welcome to Essembra🛠️🌐,
+Greetings and welcome to Essembra,
 an exceptional programming language that elevates the capabilities of assembly to unprecedented levels of excellence.
 With its remarkable speed and impeccable aesthetics, Essembra stands out as an intuitive and user-focused programming language with widespread acclaim throughout the field.
 Its clarity and simplicity enable users to navigate and master the language with ease,
